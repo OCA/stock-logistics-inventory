@@ -8,7 +8,7 @@
     "discrepancy is over a user defined threshold.",
     "version": "20.0.1.0.0",
     "author": "ForgeFlow, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/stock-logistics-warehouse",
+    "website": "https://github.com/OCA/stock-logistics-inventory",
     "category": "Warehouse",
     "depends": ["stock"],
     "data": [
